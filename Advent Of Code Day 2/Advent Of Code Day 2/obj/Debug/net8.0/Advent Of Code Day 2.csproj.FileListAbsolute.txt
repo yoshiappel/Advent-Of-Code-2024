@@ -1,0 +1,14 @@
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\bin\Debug\net8.0\Advent Of Code Day 2.exe
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\bin\Debug\net8.0\Advent Of Code Day 2.deps.json
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\bin\Debug\net8.0\Advent Of Code Day 2.runtimeconfig.json
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\bin\Debug\net8.0\Advent Of Code Day 2.dll
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\bin\Debug\net8.0\Advent Of Code Day 2.pdb
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\obj\Debug\net8.0\Advent Of Code Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\obj\Debug\net8.0\Advent Of Code Day 2.AssemblyInfoInputs.cache
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\obj\Debug\net8.0\Advent Of Code Day 2.AssemblyInfo.cs
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\obj\Debug\net8.0\Advent Of Code Day 2.csproj.CoreCompileInputs.cache
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\obj\Debug\net8.0\Advent Of Code Day 2.dll
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\obj\Debug\net8.0\refint\Advent Of Code Day 2.dll
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\obj\Debug\net8.0\Advent Of Code Day 2.pdb
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\obj\Debug\net8.0\Advent Of Code Day 2.genruntimeconfig.cache
+C:\Users\pietb\source\repos\Advent Of Code Day 2\Advent Of Code Day 2\obj\Debug\net8.0\ref\Advent Of Code Day 2.dll
